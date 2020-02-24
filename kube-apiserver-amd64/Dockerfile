@@ -1,2 +1,2 @@
-FROM kubernetes-apiserver-amd64
+FROM redis
 MAINTAINER anlie_luo/kubernetes
