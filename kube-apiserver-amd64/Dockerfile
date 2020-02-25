@@ -1,2 +1,2 @@
-FROM pause:3.1
+FROM etcd:3.4.3-0
 MAINTAINER anlie_luo/kubernetes
