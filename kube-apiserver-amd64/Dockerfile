@@ -1,2 +1,2 @@
-FROM etcd:3.4.3
+FROM etcd
 MAINTAINER anlie_luo/kubernetes
